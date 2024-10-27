@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gmail GUI</string>
+    <string name="star_icon_description">Star icon for favoriting emails</string>
+</resources>
